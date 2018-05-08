@@ -31,6 +31,6 @@ $('[data-route]').on('click', function() {
 ```
 Note: jSetRoute() is provided as part of jRouter
 
-#Requirements
+# Requirements
 
 All that is required is the latest version of jQuery.
