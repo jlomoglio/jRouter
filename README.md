@@ -30,7 +30,6 @@ $('[data-route]').on('click', function() {
     jSetRoute($(this).attr('data-route'));
 });
 ```
-Note: jSetRoute() is provided as part of jRouter
 
 # Requirements
 
