@@ -16,10 +16,11 @@ jRoute('', function () {
 });
 ```
 
-To set a route from your html:
+To set a route from your html
 
-
+```javascript
 <a data-route="docs/getting-started/welcome">
+```
 
 and then...
 
