@@ -1,5 +1,6 @@
 # jRouter
 A Simple Javascript Hash Router
+<a href="https://www.browserstack.com/automate/public-build/<badge_key>"><img src='https://www.browserstack.com/automate/badge.svg?badge_key=<badge_key>'/></a>
 
 # Usage
 Simply place the jRouter file in your javascript directory and a script reference to it
